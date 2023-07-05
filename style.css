@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500&family=Poppins:wght@500&display=swap');
+
+*{
+    
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Poppins', sans-serif;
+  
+}
+
+
+.buyborder{
+    width: 150px;
+    height: 52px;
+}
+
+.rednot{
+    
+    width: 200px;
+}
+
+.rednot li{
+    font-size: 13px;
+}
+
+.bcg{
+    background-color: rgb(214, 44, 44);
+}
+
+
+.letestnews{
+   padding-left: 100px;
+}
+
+.date{
+    color: rgb(120,120,120);
+    
+}
+.hoverred:hover{
+    color: red;
+}
+
+
+.footerlast{
+    height: 300px;
+}
+
+
+.ftfont{
+    font-size: 13px;
+}
+
+.urbnimg{
+    width: 20px;
+    height: 20px;
+}
+
+.invimg{
+    width: 200%;
+}
+
+
+
+/* Media Query */
+
+@media screen and (max-width:408px) {
+    #small{
+        font-weight: lighter;
+        font-size: 7px;
+        
+    }
+    #pricelist{
+        font-size: 7px;
+        width: 93px;
+    }
+   
+    
+}
+
+@media screen and (max-width:412px){
+    .card-title,.find{
+        font-size: 8px;
+        
+    }
+
+}
+    
+
+
+    
+ 
+
+
+
+
+.toptext{
+    font-size: 13px;
+}
+
+.press{
+    font-size: 13px;
+}
+
+.text-secondary{
+    font-size: 12px;
+}
+
+.toyotaft{
+    font-size: 10px;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.fttop{
+    font-size: 12px;
+
+}
+
+
